@@ -1,0 +1,17 @@
+{
+  "importedContents": {},
+  "catalogContents": {
+    "カタログ1": {
+      "CatalogFile": "catalog_0.1.0.json",
+      "Addresses": [
+        "Assets/Prefabs/Capsule.prefab",
+        "Assets/Prefabs/Cube.prefab",
+        "Assets/Prefabs/RemoteCylinder.prefab",
+        "Assets/Prefabs/RemoteSpheres.prefab"
+      ]
+    }
+  },
+  "_Path": "C:/Users/osuim/Documents/Unity/LiveApp_URP4/Assets/DownloadContents/Prefabs.json",
+  "InstanceNumber": 0,
+  "IsLoadedAtFirst": true
+}

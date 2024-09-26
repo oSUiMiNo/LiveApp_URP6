@@ -1,0 +1,31 @@
+{
+    "name": "View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:63b200ea7e129a0458ecf0fbe1245561",
+        "GUID:9f39c99f447029949a89569a18b10d6b",
+        "GUID:4c272f04c2e2b08469f34433eed18ca3",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8d76e605759c3f64a957d63ef96ada7c",
+        "GUID:82c7669fcf00e1b4fac3c35d98cddcf0",
+        "GUID:e8063cf3a345f9c46b7c7c4f14d54285",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:05dd262a0c0a2f841b8252c8c3815582",
+        "GUID:da3e51d19d51a544fa14d43fee843098",
+        "GUID:3fe8d15324732ab4ba34c32c2f56b6ed",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:593a5b492d29ac6448b1ebf7f035ef33"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

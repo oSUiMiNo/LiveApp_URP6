@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d988159ca7be024aa91f5465b30e967, type: 3}
+  m_Name: working_set_data
+  m_EditorClassIdentifier: 
+  datas:
+  - obj: {fileID: 102900000, guid: b35a3cbc669167d4c9b9aff103a51e44, type: 3}
+    name: Model
+    instance_id: 58508
+    path: Assets/LiveApp/Scripts/Model
+    gui_content:
+      m_Text: Model
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "Model\u200B"
+    object_type: 3
+  - obj: {fileID: 11500000, guid: 9b64e4ec25bd60040a11f2cafbde6a71, type: 3}
+    name: RuntimeInputP
+    instance_id: 37578
+    path: Assets/LiveApp/Scripts/Presenter/RuntimeInputP.cs
+    gui_content:
+      m_Text: RuntimeInputP
+      m_Image: {fileID: -8204150473280056172, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "RuntimeInputP\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: 235f0539ea768b94da36288c2bfdfb1e, type: 3}
+    name: View
+    instance_id: 58516
+    path: Assets/LiveApp/Scripts/View
+    gui_content:
+      m_Text: View
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "View\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: 23ceeb78f89b7604e96b6599598f3ee0, type: 3}
+    name: Presenter
+    instance_id: 58510
+    path: Assets/LiveApp/Scripts/Presenter
+    gui_content:
+      m_Text: Presenter
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "Presenter\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: e2ccef34762019c4a941269f1004f3b0, type: 3}
+    name: LiveApp
+    instance_id: 58318
+    path: Assets/LiveApp
+    gui_content:
+      m_Text: LiveApp
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "LiveApp\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: a8ac0b9225423d545bcd1fb3714a442b, type: 3}
+    name: Scripts
+    instance_id: 58320
+    path: Assets/LiveApp/Scripts
+    gui_content:
+      m_Text: Scripts
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "Scripts\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: fe47f8d3fcaa516409c1d778612aa77d, type: 3}
+    name: Animations
+    instance_id: 58472
+    path: Assets/LiveApp/Animations
+    gui_content:
+      m_Text: Animations
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "Animations\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: 8f97537129e70cd4a99392f7b85577f6, type: 3}
+    name: Utility
+    instance_id: 58514
+    path: Assets/LiveApp/Scripts/Utility
+    gui_content:
+      m_Text: Utility
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "Utility\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: 2b9a5a1e5028ecb46b1e6b352c1664a6, type: 3}
+    name: InteractiveView
+    instance_id: 58622
+    path: Assets/LiveApp/Scripts/View/InteractiveView
+    gui_content:
+      m_Text: InteractiveView
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "InteractiveView\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: 9167b5b74e0e9844cba638bcad522cd9, type: 3}
+    name: ControllerView
+    instance_id: 58624
+    path: Assets/LiveApp/Scripts/View/InteractiveView/ControllerView
+    gui_content:
+      m_Text: ControllerView
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "ControllerView\u200B"
+    object_type: 3
+  - obj: {fileID: 102900000, guid: 28114f5d1e10bf7489c99e3b9f0d424f, type: 3}
+    name: Alpha
+    instance_id: 58322
+    path: Assets/LiveApp/Scripts/Alpha
+    gui_content:
+      m_Text: Alpha
+      m_Image: {fileID: 3764734208316478041, guid: 0000000000000000d000000000000000, type: 0}
+      m_Tooltip: 
+      m_TextWithWhitespace: "Alpha\u200B"
+    object_type: 3

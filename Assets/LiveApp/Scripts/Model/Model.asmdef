@@ -1,0 +1,30 @@
+{
+    "name": "Model",
+    "rootNamespace": "",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:82c7669fcf00e1b4fac3c35d98cddcf0",
+        "GUID:05dd262a0c0a2f841b8252c8c3815582",
+        "GUID:e8063cf3a345f9c46b7c7c4f14d54285",
+        "GUID:63b200ea7e129a0458ecf0fbe1245561",
+        "GUID:8d76e605759c3f64a957d63ef96ada7c",
+        "GUID:da3e51d19d51a544fa14d43fee843098",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:def75f2df3971a743aa7e98993abf67d",
+        "GUID:3fe8d15324732ab4ba34c32c2f56b6ed",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:593a5b492d29ac6448b1ebf7f035ef33"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
